@@ -1,0 +1,11 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.meal-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.cart-container{
+    background-color: rgb(250, 154, 202);
+}
